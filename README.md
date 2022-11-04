@@ -78,10 +78,10 @@ En esta historia quisimos hacer otra vista mas donde el usuarix pudiera obtener 
 
  ## Visualizacion Final 
 
- # <img src="./src/Images/Screenshot (20).png">
- # <img src="./src/Images/Screenshot (21).png">
- # <img src="./src/Images/Screenshot (22).png">
- # <img src="./src/Images/Screenshot (23).png">
+ # <img src="./src/Images/Inicio.jpg">
+ # <img src="./src/Images/Houses.jpg">
+ # <img src="./src/Images/muestrabook.jpg">
+ # <img src="./src/Images/datecurios.jpg">
 
 Respecto a los colores y diseño nos enfocamos en los colores de las casas, y ese estilo un poco antiguo de Harry Potter.
 
@@ -96,5 +96,3 @@ Respecto a los colores y diseño nos enfocamos en los colores de las casas, y es
 
 ### Fuente Elegida 
 - 'Cinzel', serif . 
-
-#
